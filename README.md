@@ -30,7 +30,7 @@ The copilot is in development. The public demos use fictional data and scripted 
 | --- | --- |
 | [QAVEAI · Pump-trip scenario](https://qaveai.com/demos/pump-trip.html) | An illustrative investigation of temperature, vibration, and current trends following a motor-overload trip. |
 | [QAVEAI · Suction-restriction scenario](https://qaveai.com/demos/suction-restriction.html) | A contrasting signal pattern that separates observed evidence from root-cause hypotheses. |
-| [Automotive perception](https://github.com/amrhady2/ATI-Perception-Challenges) | Python and OpenCV pipelines for rim-center detection and structured-light tread-depth estimation. |
+| [Automotive perception](https://github.com/amrhady2/ATI-Perception-Challenges) | PyTorch heatmap-based wheel-center localization and OpenCV tread-depth experiments. |
 
 ## Engineering foundation
 
